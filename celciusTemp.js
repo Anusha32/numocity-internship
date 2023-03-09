@@ -1,5 +1,5 @@
 function celciusTemp(temperature, tempUnit) {
-  if (tempUnit == 'Fahrenheit') {
+  if (false) {
     temperature = ((temperature -32)*5/9 );
   }
   return temperature;
